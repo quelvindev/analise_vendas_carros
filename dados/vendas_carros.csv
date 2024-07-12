@@ -1,0 +1,101 @@
+Marca;Modelo;Ano;Cor;Preço;Quantidade;Data_Venda;Vendedor;Local_Venda;Forma_Pagamento
+Ford;Coupé;2022;Branco;33570;2;2020-01-01 00:00:00;Maria;Porto Alegre;Leasing
+Ford;Sedan;2018;Azul;21330;2;2020-01-04 16:29:05;José;São Paulo;Leasing
+Ford;Hatchback;2020;Preto;43975;1;2020-01-08 08:58:11;Ana;São Paulo;Financiamento
+Volkswagen;Hatchback;2022;Branco;38969;5;2020-01-12 01:27:16;José;Porto Alegre;Leasing
+Ford;Sedan;2016;Vermelho;49621;1;2020-01-15 17:56:22;Pedro;São Paulo;À vista
+Honda;Sedan;2019;Vermelho;44258;6;2020-01-19 10:25:27;Maria;Belo Horizonte;Financiamento
+Volkswagen;SUV;2022;Prata;31881;5;2020-01-23 02:54:33;Pedro;Belo Horizonte;Financiamento
+Toyota;Sedan;2019;Branco;36473;7;2020-01-26 19:23:38;Ana;Rio de Janeiro;À vista
+Ford;Hatchback;2022;Azul;20577;1;2020-01-30 11:52:44;João;Porto Alegre;À vista
+Chevrolet;Sedan;2016;Vermelho;42148;4;2020-02-03 04:21:49;Ana;Rio de Janeiro;Leasing
+Toyota;Coupé;2017;Prata;34004;7;2020-02-06 20:50:55;João;Porto Alegre;À vista
+Toyota;Coupé;2016;Branco;43253;7;2020-02-10 13:20:00;João;São Paulo;Leasing
+Toyota;Sedan;2019;Azul;17854;7;2020-02-14 05:49:05;Maria;Rio de Janeiro;Financiamento
+Honda;Coupé;2016;Branco;47218;9;2020-02-17 22:18:11;José;Rio de Janeiro;À vista
+Toyota;SUV;2017;Azul;47277;9;2020-02-21 14:47:16;Maria;Rio de Janeiro;Leasing
+Chevrolet;Coupé;2019;Azul;47618;8;2020-02-25 07:16:22;José;São Paulo;Financiamento
+Chevrolet;SUV;2022;Branco;22468;7;2020-02-28 23:45:27;Ana;São Paulo;Financiamento
+Volkswagen;Sedan;2015;Preto;18955;4;2020-03-03 16:14:33;Ana;São Paulo;Leasing
+Chevrolet;SUV;2019;Azul;25906;8;2020-03-07 08:43:38;Maria;São Paulo;À vista
+Toyota;Hatchback;2017;Azul;39350;7;2020-03-11 01:12:44;Maria;São Paulo;Financiamento
+Volkswagen;Hatchback;2017;Azul;28007;1;2020-03-14 17:41:49;José;Porto Alegre;À vista
+Volkswagen;Hatchback;2018;Vermelho;40338;8;2020-03-18 10:10:55;José;Belo Horizonte;Leasing
+Chevrolet;Hatchback;2016;Vermelho;26924;7;2020-03-22 02:40:00;José;Rio de Janeiro;Leasing
+Chevrolet;Sedan;2021;Vermelho;48141;9;2020-03-25 19:09:05;Pedro;Porto Alegre;Financiamento
+Ford;Sedan;2017;Azul;31048;2;2020-03-29 11:38:11;João;Rio de Janeiro;À vista
+Chevrolet;Sedan;2021;Preto;18947;4;2020-04-02 04:07:16;José;Porto Alegre;À vista
+Ford;SUV;2021;Branco;48232;6;2020-04-05 20:36:22;Maria;São Paulo;Leasing
+Chevrolet;SUV;2020;Prata;42704;5;2020-04-09 13:05:27;José;Rio de Janeiro;Financiamento
+Ford;Coupé;2022;Azul;20314;7;2020-04-13 05:34:33;Maria;Belo Horizonte;Leasing
+Toyota;Coupé;2022;Vermelho;16622;4;2020-04-16 22:03:38;Ana;Porto Alegre;À vista
+Honda;Coupé;2019;Azul;24315;8;2020-04-20 14:32:44;Pedro;Belo Horizonte;À vista
+Toyota;Coupé;2019;Vermelho;32997;4;2020-04-24 07:01:49;Ana;Rio de Janeiro;Financiamento
+Chevrolet;Coupé;2020;Branco;32195;5;2020-04-27 23:30:55;João;Belo Horizonte;Financiamento
+Chevrolet;Sedan;2015;Branco;47921;6;2020-05-01 16:00:00;José;Rio de Janeiro;Leasing
+Volkswagen;Sedan;2020;Azul;47462;8;2020-05-05 08:29:05;José;Porto Alegre;À vista
+Toyota;Coupé;2020;Vermelho;45618;7;2020-05-09 00:58:11;Ana;Rio de Janeiro;À vista
+Toyota;SUV;2020;Azul;25929;3;2020-05-12 17:27:16;João;Belo Horizonte;Financiamento
+Volkswagen;Hatchback;2015;Azul;31149;3;2020-05-16 09:56:22;José;São Paulo;Financiamento
+Ford;Sedan;2022;Vermelho;33628;4;2020-05-20 02:25:27;Ana;Belo Horizonte;Financiamento
+Chevrolet;Hatchback;2022;Preto;30803;2;2020-05-23 18:54:33;Pedro;Porto Alegre;Leasing
+Ford;Hatchback;2017;Vermelho;44821;9;2020-05-27 11:23:38;Pedro;Rio de Janeiro;Financiamento
+Honda;Sedan;2019;Vermelho;25210;1;2020-05-31 03:52:44;José;Belo Horizonte;À vista
+Chevrolet;Coupé;2016;Preto;42973;6;2020-06-03 20:21:49;João;Rio de Janeiro;Leasing
+Toyota;SUV;2019;Vermelho;26870;4;2020-06-07 12:50:55;Ana;São Paulo;Financiamento
+Ford;SUV;2016;Prata;32049;6;2020-06-11 05:20:00;José;Rio de Janeiro;À vista
+Honda;SUV;2019;Azul;40802;9;2020-06-14 21:49:05;Maria;Belo Horizonte;À vista
+Chevrolet;SUV;2021;Azul;31306;5;2020-06-18 14:18:11;José;Rio de Janeiro;Financiamento
+Honda;SUV;2020;Vermelho;21250;1;2020-06-22 06:47:16;Pedro;Porto Alegre;Leasing
+Volkswagen;Sedan;2016;Vermelho;48073;2;2020-06-25 23:16:22;Pedro;Belo Horizonte;À vista
+Honda;Coupé;2015;Prata;22652;5;2020-06-29 15:45:27;Pedro;Porto Alegre;Financiamento
+Volkswagen;SUV;2016;Preto;28583;3;2020-07-03 08:14:33;Ana;Porto Alegre;Financiamento
+Ford;Coupé;2015;Branco;19232;7;2020-07-07 00:43:38;Maria;Rio de Janeiro;Leasing
+Ford;Sedan;2021;Branco;26387;8;2020-07-10 17:12:44;Pedro;São Paulo;Leasing
+Chevrolet;SUV;2016;Vermelho;32197;5;2020-07-14 09:41:49;José;Belo Horizonte;À vista
+Chevrolet;Sedan;2017;Preto;22216;8;2020-07-18 02:10:55;Pedro;Belo Horizonte;À vista
+Honda;Hatchback;2015;Prata;16777;4;2020-07-21 18:40:00;Ana;Rio de Janeiro;Financiamento
+Chevrolet;Coupé;2019;Azul;41261;3;2020-07-25 11:09:05;Ana;Rio de Janeiro;Financiamento
+Volkswagen;SUV;2016;Prata;47833;5;2020-07-29 03:38:11;João;Porto Alegre;À vista
+Honda;Hatchback;2015;Vermelho;48136;7;2020-08-01 20:07:16;Ana;São Paulo;À vista
+Ford;Hatchback;2016;Azul;39915;2;2020-08-05 12:36:22;Pedro;São Paulo;Leasing
+Honda;Coupé;2017;Prata;31295;9;2020-08-09 05:05:27;José;Belo Horizonte;À vista
+Chevrolet;Coupé;2020;Vermelho;30343;5;2020-08-12 21:34:33;Pedro;Porto Alegre;À vista
+Volkswagen;Hatchback;2020;Branco;17436;3;2020-08-16 14:03:38;Maria;São Paulo;Leasing
+Toyota;Coupé;2022;Azul;16174;4;2020-08-20 06:32:44;Pedro;São Paulo;À vista
+Chevrolet;SUV;2020;Preto;42958;4;2020-08-23 23:01:49;Pedro;Belo Horizonte;À vista
+Ford;Sedan;2016;Prata;19041;3;2020-08-27 15:30:55;Ana;Belo Horizonte;À vista
+Volkswagen;Sedan;2020;Azul;43909;3;2020-08-31 08:00:00;José;Porto Alegre;Leasing
+Chevrolet;SUV;2016;Azul;34870;2;2020-09-04 00:29:05;José;Rio de Janeiro;Leasing
+Ford;SUV;2016;Vermelho;23520;9;2020-09-07 16:58:11;Ana;São Paulo;Financiamento
+Ford;Coupé;2021;Vermelho;15138;3;2020-09-11 09:27:16;José;Rio de Janeiro;Leasing
+Toyota;Coupé;2015;Prata;17586;3;2020-09-15 01:56:22;Ana;Belo Horizonte;À vista
+Ford;Coupé;2019;Azul;31338;7;2020-09-18 18:25:27;Ana;Porto Alegre;Leasing
+Volkswagen;Hatchback;2018;Branco;34188;1;2020-09-22 10:54:33;João;Porto Alegre;À vista
+Volkswagen;Coupé;2022;Branco;39603;5;2020-09-26 03:23:38;Pedro;Rio de Janeiro;Leasing
+Honda;SUV;2022;Vermelho;42458;5;2020-09-29 19:52:44;José;Porto Alegre;Financiamento
+Chevrolet;Hatchback;2020;Prata;35461;3;2020-10-03 12:21:49;Maria;Rio de Janeiro;À vista
+Toyota;Sedan;2017;Prata;16682;4;2020-10-07 04:50:55;Maria;São Paulo;À vista
+Honda;Hatchback;2018;Vermelho;31591;1;2020-10-10 21:20:00;Pedro;Rio de Janeiro;À vista
+Ford;Coupé;2022;Vermelho;41764;6;2020-10-14 13:49:05;José;São Paulo;À vista
+Volkswagen;Sedan;2021;Branco;41365;9;2020-10-18 06:18:11;João;Rio de Janeiro;À vista
+Chevrolet;Hatchback;2020;Vermelho;29315;3;2020-10-21 22:47:16;Maria;Belo Horizonte;Leasing
+Ford;SUV;2021;Prata;24919;6;2020-10-25 15:16:22;José;Belo Horizonte;À vista
+Honda;Hatchback;2021;Azul;29083;3;2020-10-29 07:45:27;João;Porto Alegre;À vista
+Chevrolet;Coupé;2019;Azul;37570;9;2020-11-02 00:14:33;José;Porto Alegre;À vista
+Toyota;Coupé;2019;Preto;25637;3;2020-11-05 16:43:38;Maria;São Paulo;À vista
+Volkswagen;Sedan;2021;Preto;25293;1;2020-11-09 09:12:44;José;Porto Alegre;Leasing
+Honda;Coupé;2019;Vermelho;48681;8;2020-11-13 01:41:49;Maria;Rio de Janeiro;À vista
+Chevrolet;Hatchback;2021;Prata;17830;2;2020-11-16 18:10:55;João;Rio de Janeiro;Leasing
+Volkswagen;SUV;2022;Branco;39686;4;2020-11-20 10:40:00;Pedro;Porto Alegre;À vista
+Ford;Sedan;2015;Branco;31439;6;2020-11-24 03:09:05;João;São Paulo;À vista
+Ford;SUV;2016;Branco;38880;5;2020-11-27 19:38:11;José;Rio de Janeiro;À vista
+Volkswagen;Sedan;2015;Prata;49849;9;2020-12-01 12:07:16;Pedro;Rio de Janeiro;Financiamento
+Honda;SUV;2022;Prata;30140;2;2020-12-05 04:36:22;Ana;Rio de Janeiro;Financiamento
+Chevrolet;SUV;2015;Vermelho;46376;4;2020-12-08 21:05:27;Pedro;Belo Horizonte;Leasing
+Chevrolet;Sedan;2021;Vermelho;25854;6;2020-12-12 13:34:33;João;São Paulo;À vista
+Toyota;Sedan;2018;Branco;44323;3;2020-12-16 06:03:38;Maria;Rio de Janeiro;Financiamento
+Toyota;Coupé;2018;Preto;17574;3;2020-12-19 22:32:44;José;São Paulo;À vista
+Volkswagen;Hatchback;2016;Azul;30764;1;2020-12-23 15:01:49;Ana;Porto Alegre;Financiamento
+Chevrolet;Hatchback;2015;Branco;39650;6;2020-12-27 07:30:55;Maria;São Paulo;Financiamento
+Toyota;Hatchback;2018;Branco;39035;7;2020-12-31 00:00:00;Ana;São Paulo;Leasing
